@@ -7,7 +7,9 @@ gallstone-ml-xai/
 ├── dataset/  
 │   ├── dataset_uci.csv  
 │   ├── best_model.joblib
+
 │   └── scaler.joblib
+
 ├── coding/  
 │   ├── eda_and_models.ipynb      
 │   └── 02_shap_xai_analysis.ipynb  
