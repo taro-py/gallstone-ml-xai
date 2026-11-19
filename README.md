@@ -5,9 +5,11 @@ Project structure:
 
 gallstone-ml-xai/  
 ├── dataset/  
-│   └── gallstone_dataset.csv  
+│   ├── dataset_uci.csv  
+│   ├── best_model.joblib
+│   └── scaler.joblib
 ├── coding/  
-│   ├── 01_eda_and_models.ipynb      
+│   ├── eda_and_models.ipynb      
 │   └── 02_shap_xai_analysis.ipynb  
 ├── report/  
 │   └── ieee_report.pdf             
