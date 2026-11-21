@@ -49,9 +49,10 @@ Este repositorio contiene el desarrollo del proyecto de Machine Learning y Expli
 
 | Tiempo | Expositor | Contenido Principal |
 | :--- | :--- | :--- |
-| **0:00 – 3:20** | **Miembro 1** | Introducción al problema clínico de la litiasis biliar, descripción del dataset UCI (319 pacientes, 38 variables) y arquitectura de los modelos entrenados. |
-| **3:20 – 6:40** | **Miembro 2** | Resultados del modelo con mayor rendimiento y análisis de explicabilidad con SHAP/LIME (variables clínicas de mayor impacto). |
-| **6:40 – 10:00** | **Miembro 3** | Conclusiones principales, limitaciones del modelo, implicaciones clínicas y cierre con preguntas. |
+| **0:00 – 0:20** | **Miembro 3** | Portada: presentación del equipo y de las dos preguntas del proyecto (diapositiva 1). |
+| **0:20 – 3:30** | **Miembro 1** | Introducción al problema clínico de la litiasis biliar, descripción del dataset UCI (319 pacientes, 38 variables) y arquitectura de los modelos entrenados (diapositivas 2–4). |
+| **3:30 – 6:50** | **Miembro 2** | Resultados del modelo con mayor rendimiento y análisis de explicabilidad con SHAP/LIME (variables clínicas de mayor impacto) (diapositivas 5–7). |
+| **6:50 – 10:00** | **Miembro 3** | Conclusiones principales, limitaciones del modelo, implicaciones clínicas y cierre del vídeo (diapositivas 8–9). |
 
 ---
 
