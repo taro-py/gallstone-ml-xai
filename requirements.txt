@@ -1,0 +1,14 @@
+# Python 3.12
+# scikit-learn must be 1.9.1: dataset/best_model.joblib was saved with this version
+scikit-learn==1.9.1
+xgboost==3.4.1
+pandas==3.1.1
+numpy==2.5.5
+matplotlib==3.11.2
+seaborn==0.13.2
+shap==0.54.1
+lime==0.2.0.1
+python-calamine==0.9.1
+joblib==1.6.0
+ipywidgets
+jupyter
