@@ -56,17 +56,22 @@ Este repositorio contiene el desarrollo del proyecto de Machine Learning y Expli
 
 ---
 
-## 📁 Estructura del Repositorio Sugerida
+## 📁 Estructura del Repositorio
 
 ```
-├── data/
-│   └── gallstone-1.csv         # Dataset original de UCI
-├── notebooks/
-│   └── main_analysis.ipynb    # Pipeline de ML y Explicabilidad (SHAP/LIME)
+├── dataset/
+│   ├── dataset-uci.xlsx              # Dataset original de UCI
+│   ├── best_model.joblib             # Pipeline entrenado (escalado + XGBoost)
+│   └── scaler.joblib                 # Preprocesador ajustado
+├── code/
+│   ├── eda_and_models.ipynb          # EDA, preprocesado, validación cruzada y modelos (Miembro 1)
+│   └── 02_shap_xai_analysis.ipynb    # Explicabilidad con SHAP/LIME (Miembro 2)
+├── figures/                          # Figuras generadas por el análisis de explicabilidad
 ├── report/
-│   ├── main.tex               # Código fuente en LaTeX (Plantilla IEEE)
-│   └── IEEE_Report.pdf        # Reporte consolidado de 2 páginas
+│   ├── report.tex                    # Código fuente en LaTeX (Plantilla IEEE)
+│   └── ieee_report.pdf               # Reporte de 2 páginas
 ├── presentation/
-│   └── slides.pptx            # Diapositivas de la exposición (7-9 slides)
-└── README.md                  # Guía general del proyecto
+│   └── presentation.pptx             # Diapositivas del vídeo (9 diapositivas)
+├── requirements.txt                  # Librerías necesarias para ejecutar los notebooks
+└── README.md                         # Guía general del proyecto
 ```
