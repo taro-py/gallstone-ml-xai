@@ -20,7 +20,6 @@ gallstone-ml-xai/
 │   └── ieee_report.pdf
 ├── presentation/
 │   └── presentation.pptx
-├── plan.md
 ├── requirements.txt
 ├── .gitignore
 └── README.md
